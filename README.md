@@ -39,8 +39,6 @@ Tabular Column
 ![WhatsApp Image 2025-10-25 at 22 57 54_6f5ce9c3](https://github.com/user-attachments/assets/ea5be37b-f68d-46bb-8a2a-724d2fc7c3ba)
 
 
-Result
-    Thus the output is achieved successfully.
 
 Result
 
