@@ -27,19 +27,20 @@ Algorithm
 6.	Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 Program
+<img width="1216" height="564" alt="Screenshot 2025-10-26 211904" src="https://github.com/user-attachments/assets/e45d84d0-c166-42d0-ae3f-3769c35b0ffa" />
 
 
 Output Waveform
+<img width="941" height="604" alt="Screenshot 2025-10-26 211919" src="https://github.com/user-attachments/assets/cfa39102-2298-4939-b707-682a2e7b2f1d" />
 
 
 Tabular Column
 
+![WhatsApp Image 2025-10-25 at 22 57 54_6f5ce9c3](https://github.com/user-attachments/assets/ea5be37b-f68d-46bb-8a2a-724d2fc7c3ba)
 
 
-Calculation
-
-
-
+Result
+    Thus the output is achieved successfully.
 
 Result
 
